@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sushmargowda27/edyodaassign.git/static/css/main.0cbb8c27.css",
+    "main.js": "/Sushmargowda27/edyodaassign.git/static/js/main.95c34ef8.js",
+    "static/js/787.5063ad48.chunk.js": "/Sushmargowda27/edyodaassign.git/static/js/787.5063ad48.chunk.js",
+    "static/media/background.svg": "/Sushmargowda27/edyodaassign.git/static/media/background.9e5260bac44e4bed9837.svg",
+    "static/media/subscription.svg": "/Sushmargowda27/edyodaassign.git/static/media/subscription.97d3a49cb311dc9b883c7487f1512211.svg",
+    "static/media/razor.svg": "/Sushmargowda27/edyodaassign.git/static/media/razor.5b4a633b2bc8076e3496d39ffef24941.svg",
+    "static/media/book.svg": "/Sushmargowda27/edyodaassign.git/static/media/book.b3bf90171d557c1cd6b38c91525ce6f4.svg",
+    "static/media/live.svg": "/Sushmargowda27/edyodaassign.git/static/media/live.1acfb03a490f77a4d32cc1c453c23784.svg",
+    "static/media/ads.svg": "/Sushmargowda27/edyodaassign.git/static/media/ads.17dfa54294f5d9ffe102124c6f17fb9b.svg",
+    "static/media/logo.svg": "/Sushmargowda27/edyodaassign.git/static/media/logo.42f42a267a78017e2c1dac14da613f2f.svg",
+    "static/media/graduate.svg": "/Sushmargowda27/edyodaassign.git/static/media/graduate.f8a6c3d351e3e2f37134e32a2270cf23.svg",
+    "static/media/button2.svg": "/Sushmargowda27/edyodaassign.git/static/media/button2.64b04a1cd265aa195638438c5cab5a55.svg",
+    "static/media/clock.svg": "/Sushmargowda27/edyodaassign.git/static/media/clock.d77fabe0776bc96c1d20021d6576728e.svg",
+    "index.html": "/Sushmargowda27/edyodaassign.git/index.html",
+    "static/media/button1.svg": "/Sushmargowda27/edyodaassign.git/static/media/button1.a0cb75d3bf6ac329bcd3ff637392ffd7.svg",
+    "main.0cbb8c27.css.map": "/Sushmargowda27/edyodaassign.git/static/css/main.0cbb8c27.css.map",
+    "main.95c34ef8.js.map": "/Sushmargowda27/edyodaassign.git/static/js/main.95c34ef8.js.map",
+    "787.5063ad48.chunk.js.map": "/Sushmargowda27/edyodaassign.git/static/js/787.5063ad48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cbb8c27.css",
+    "static/js/main.95c34ef8.js"
+  ]
+}
